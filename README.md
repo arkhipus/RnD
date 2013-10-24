@@ -1,1 +1,1 @@
-Some random crap here. Mostly R&D projects.
+Some random stuff here. Mostly R&D projects.
